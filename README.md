@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I Am Amit Kumar Yadav 👋
+currently I am Study in B.tech ( Computer science and engineering ) in Final Year.
+my linkedIn Id is := https://www.linkedin.com/in/amit-kumar-yadav-a11313276/
 
 <!--
 **Amit-kumaryadav100013/Amit-kumaryadav100013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
